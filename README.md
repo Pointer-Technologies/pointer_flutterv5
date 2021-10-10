@@ -15,3 +15,5 @@ All of it is integrated with a real-time database, for which Firebase was used.
 
 **We try to update the components to the latest stable version and get rid of deprecated classes.**
 
+### Copyright (C) Antonios Antoniou, Konstantinos Gerogiannis, Pointer Techonologies
+
