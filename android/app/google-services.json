@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "219923036568",
+    "firebase_url": "https://pointer-trackers-flutter.firebaseio.com",
+    "project_id": "pointer-trackers-flutter",
+    "storage_bucket": "pointer-trackers-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219923036568:android:abb2e3f0f16eb7939093ed",
+        "android_client_info": {
+          "package_name": "com.example.pointer_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219923036568-pmn122afdbav3obb6nve6b7l6dvpiggq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbDhPSaPUIXa82HAfPcR7sQUcse-_XiTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219923036568-pmn122afdbav3obb6nve6b7l6dvpiggq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
