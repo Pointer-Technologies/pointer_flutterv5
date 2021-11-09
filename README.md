@@ -2,7 +2,7 @@
  Flutter project of the Pointer Technologies app
 
 This is the closest thing to a final product for the tracker prototype our team had made.
-It is fully-functional, except for the tracker setup functionality. Our team decided to make the codebase, for both the Flutter and Java (Android Studio), public to serve as assistance to anyone starting their own big-scale project.
+It is fully-functional, except for the tracker setup functionality. Our team decided to make the codebase, for both Flutter and Java (Android Studio), public to serve as assistance to anyone starting their own big-scale project.
 
 It consists of:
 - A sign in screen
